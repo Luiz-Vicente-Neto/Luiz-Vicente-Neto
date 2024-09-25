@@ -9,6 +9,6 @@ I'm Luiz Vitor, a passionate **Information Systems** student currently in my 4th
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js
 - **Other Tools**: Git, GitHub, Postman
-- 
+  
 ### Fun Fact:
 When I'm not coding, you can find me exploring new technologies or playing Dungeons & Dragons with my friends. 🎲
