@@ -6,9 +6,9 @@ I'm Luiz Vitor, a passionate **Information Systems** student currently in my 4th
 - **Software Development**: I focus on building web applications and enhancing my skills in the languages mentioned above.
 
 ### 🛠️ Tech Stack:
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, Vue.js
 - **Backend**: Node.js
 - **Other Tools**: Git, GitHub, Postman
   
 ### Fun Fact:
-When I'm not coding, you can find me exploring new technologies or playing Dungeons & Dragons with my friends. 🎲
+When I'm not coding, you can find me exploring new technologies or playing Dungeons & Dragons with my friends. 
