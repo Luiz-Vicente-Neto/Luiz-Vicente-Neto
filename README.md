@@ -1,11 +1,8 @@
-# Hi there! 👋  
+# Hi, i'm Luiz! 👋  
 
-I'm Luiz Vitor, a passionate **Information Systems** student currently in my 4th semester. I enjoy learning to program in languages like **HTML**, **CSS**, **JavaScript**, and I have a basic understanding of **Python**. I'm also interested in **Object-Oriented Programming (OOP)** and am continuously studying various programming concepts.  
+I am an Information Systems student with a strong interest in Software Development.
 
----
-
-### 💼 What I do:  
-- **Software Development**: I focus on building web applications and enhancing my skills in the languages mentioned above.  
+In 2023, I began my academic journey in technology by enrolling in a reputable institution to expand my knowledge. Since then, I have been consistently developing my skills and deepening my understanding of various programming concepts.
 
 ---
 
